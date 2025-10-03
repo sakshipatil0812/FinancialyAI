@@ -20,3 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1cRhmqrcvu-FqrBln6A8If5
 
 3. Run the app:
    `npm run dev`
+https://github.com/user-attachments/assets/c75b3410-0ff6-4d4a-95b7-d0611b67a891
