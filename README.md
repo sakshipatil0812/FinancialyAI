@@ -9,6 +9,7 @@ This contains everything you need to run your app locally.
 View your app in AI Studio: https://ai.studio/apps/drive/1cRhmqrcvu-FqrBln6A8If5rKEbjw77YL
 
 https://github.com/user-attachments/assets/4aa03093-bc9b-4e56-9325-bc600ad47179
+[Finance_Manager_Project_Documentation.pptx](https://github.com/user-attachments/files/22721515/Finance_Manager_Project_Documentation.pptx)
 
 ## Run Locally
 
